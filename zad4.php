@@ -7,8 +7,8 @@
     <title>Zad2</title>
 </head>
 <body>
-    <a href="zad1.php">Zad2</a>
-    <a href="zad2.php">Zad3</a>
+    <a href="zad2.php">Zad2</a>
+    <a href="zad3.php">Zad3</a>
     <form method="post">
         <label>id ucznia</label>
         <input type="text" name="id_ucznia" required>
