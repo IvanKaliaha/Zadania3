@@ -1,0 +1,28 @@
+#obok{
+    display: flex;
+    gap: 4px;
+    margin-bottom: -20px;
+  }
+
+#imie{
+    width: 15%;
+    border: 2px dotted darkcyan;
+}
+#nazwisko{
+    width: 15%;
+    border: 2px dotted rgb(139, 0, 93);
+}
+#id{
+    width: 15%;
+    border: 2px dotted rgb(145, 187, 116);
+}
+
+#pasja{
+    width: 15%;
+    border: 2px dotted rgb(129, 116, 187);
+}
+
+#ocena{
+    width: 15%;
+    border: 2px dotted rgb(37, 5, 5);
+}
